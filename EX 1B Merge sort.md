@@ -4,11 +4,13 @@
 To write a python program to sort the first half of the list using merge sort.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Divide the List: Split the given list into two halves.
+
+2. Sort the First Half: Apply the merge sort algorithm to the first half of the list.
+
+3. Leave the Second Half Unchanged: The second half of the list is not modified.
+
+4. Merge the Sorted First Half with the Unsorted Second Half: Merge the sorted first half and the second half back together.
 
 ## Program:
 
